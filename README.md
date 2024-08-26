@@ -134,13 +134,13 @@ Pillow
 ## Screenshots
 
 ### Image Upload Page
-![Upload Page](path/to/upload_screenshot.png)
+![Upload Page](Sample Demo\Screenshot (205).png)
 
 ### Confirmation Page
-![Confirmation Page](path/to/confirmation_screenshot.png)
+![Confirmation Page](Sample Demo\Screenshot (207).png)
 
 ### 3D Model Preview
-![3D Model](path/to/3dmodel_screenshot.png)
+![3D Model](Sample Demo\Screenshot (208).png)
 
 ## Manual Testing
 
